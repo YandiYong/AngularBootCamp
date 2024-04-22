@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class LoginComponent {
 
+  //To access our httpClient which is our backend database we use the constructor
+
 }
